@@ -1,3 +1,3 @@
 # GerenciamentoTarefa
 
-A documentação a respeito da escolha de design se encontra na aba WIKI
+A documentação referente a decisão do design da aplicação se encontra na aba WIKI. 
